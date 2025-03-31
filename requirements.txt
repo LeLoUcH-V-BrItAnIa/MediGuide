@@ -1,0 +1,4 @@
+scikit-learn = 1.6.1
+flask
+pandas
+numpy
